@@ -1,29 +1,29 @@
 .abc {
-    color: red;
+    color: rgb(82, 45, 4);
     font-size: 48px;
-    text-shadow: 2px 3px blue;
+    text-shadow: 2px 3px rgb(189, 130, 5);
   }
   
   .blue {
-    color: blue;
+    color: rgb(109, 75, 13);
   }
   
   .red {
-    color: red;
+    color: rgb(3, 71, 45);
   }
   
   .green {
-    color: green;
+    color: rgb(78, 62, 226);
   }
   
   .bgimg{
-    background-image: url("../images/bg.jpg");
+    background-image: url("../images/pink11.jpg");
     background-repeat: repeat-x;
     opacity: 1;
   }
   
   .bggreen{
-    background-color: green;
+    background-color: rgb(243, 201, 161);
   }
   
   a {
@@ -35,7 +35,7 @@
     margin: 0;
     padding: 0;
     overflow: hidden;
-    background-color: rgba(255, 255, 255, 0.3);
+    background-color: rgba(240, 192, 128, 0.3);
   }
   
   li {
@@ -44,14 +44,14 @@
   
   li a {
     display: block;
-    color: white;
+    color: rgb(19, 12, 3);
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
   }
   
   li a:hover {
-    background-color: #FF0099;
+    background-color: #ff990086;
     font-size: 18px;
   }
   

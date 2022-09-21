@@ -11,14 +11,9 @@
 
 <body class="bggreen">
     <h1 class="blue"> ข้อมูลผู้จัดทำ </h1>
-    <ul>
-        <li><a href="index.html">หน้าหลัก </a> </li>
-        <li><a href="about.html"> เกี่ยวกับเรา </a></li>
-        <li><a href="contact.html"> ติดต่อเรา </a></li>
-        <li><a href="login.html"> Login </a></li>
-        <li><a href="register.html"> Register</a></li>
-        <li><a href="profile.html"> Profile</a></li>
-    </ul>
+    <?php
+        include "navbar.php";
+    ?>
 
 
 </body>
